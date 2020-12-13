@@ -1,0 +1,34 @@
+#contact{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.contact{
+    padding-top: 50px;
+}
+
+.col-md-12{
+    padding-top: 25px;
+}
+
+label{
+    font-size: 25px;
+}
+
+.form_contact{
+    font-size: 35px;
+    color: darkslategrey;
+}
+
+.red{
+    color: red;
+}
+
+.button1{
+    width: 185px;
+    height: 50px;
+    font-size: 23px;
+    padding-top: 0px;
+    text-align: center;
+    margin: auto;
+}

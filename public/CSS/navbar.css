@@ -1,0 +1,19 @@
+#navbar_bg{
+    background-color: #95C0E9;
+}
+
+img.logo{
+    width: 100px;
+    height: 85px;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    padding-left: 40px;
+    font-size: 25px;
+}
+
+.btn-light{
+    background-color: #95C0E9;
+    border-color: black;
+}
+
